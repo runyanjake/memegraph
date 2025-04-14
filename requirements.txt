@@ -1,0 +1,7 @@
+langchain_community
+langchain_core>=0.1.35
+langchain_experimental
+langchain_ollama
+langgraph
+pillow
+pydantic
