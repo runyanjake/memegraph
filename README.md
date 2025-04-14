@@ -15,3 +15,9 @@ python main.py
 deactivate
 ```
 
+## Usage 
+Can specify prompt when calling script or will use default prompt.
+```
+python main.py 
+python main.py --prompt "Generate an image for the 'Leonardo dicaprio cheers' meme with the text 'LANGGRAPH MEMES'."
+```
